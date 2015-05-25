@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/SurAnand/KK_to_ABS_15apr15](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SurAnand/KK_to_ABS_15apr15?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/SurAnand/KK_to_ABS_15apr15](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SurAnand/KK_to_ABS_15apr15?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Somayaji made a script in R which I am dying to reproduce in python using pandas and other great frameworks. His source file is:
 
 > `ProjectProposal.R`
